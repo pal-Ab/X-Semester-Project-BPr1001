@@ -1,0 +1,219 @@
+
+[
+{
+  "name": "FAP174 (recombinant)",
+  "modelSeeds": [1],
+  "sequences": [
+    {
+      "proteinChain": {
+        "sequence": "MGSSHHHHHHSSGLVPRGSHMMSESQKETFRKYLEQAGAIDVLVKVLVQLYEEPSKPKTALDYIKQCLGSPTPAEYEAVVAERDGLQKQLEEANQLIAELQSRVQSLEAAAETA",
+        "count": 1
+      }
+    }
+  "dialect": "alphafold3",
+  "version": 1
+},
+[
+  {
+    "name": "FAP174",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MSESQKETFRKYLEQAGAIDVLVKVLVQLYEEPSKPKTALDYIKQCLGSPTPAEYEAVVAERDGLQKQLEEANQLIAELQSRVQSLEAAAETA",
+          "count": 1
+        }
+      }
+    ],
+    "modelSeeds": [1],
+    "dialect": "alphafold3",
+    "version": 1
+  }
+],
+
+[
+  {
+    "name": "cAMP-dependent protein kinase type II-alpha regulatory subunit",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MSHIQIPAGLTELLQGYTVEVLRQQPPDLVDFAVEYFTRLREARRQESDTFIVSPTTFHTQESSAVPVIEEDGESDSDSEDADLEVPVPSKFTRRVSVCAETFNPDEEEEDNDPRVVHPKTDEQRCRLQEACKDILLFKNLDQEQLSQVLDAMFEKIVKTDEHVIDQGDDGDNFYVIERGTYDILVTKDNQTRSVGQYDNRGSFGELALMYNTPRAATIIATSEGSLWGLDRVTFRRIIVKNNAKKRKMFESFIESVPLFKSLEMSERMKIVDVIGEKIYKDGERIIAQGEKADSFYIIESGEVSILIRSKTKSNKNGGNQEVEIAHCHKGQYFGELALVTNKPRAASAYAVGDVKCLVMDVQAFERLLGPCMDIMKRNISHYEEQLVKMFGSNLDLMDPGQ",
+          "count": 1
+        }
+      }
+    ],
+    "modelSeeds": [1],
+    "dialect": "alphafold3",
+    "version": 1
+  }
+],
+  
+[
+  {
+    "name": "cAMP-dependent protein kinase type II-beta regulatory subunit isoform 1",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MSIEIPAGLTELLQGFTVEVLRHQPADLLEFALQHFTRLQQENERKGAARFGHEGRTWGDAGAAAGGGIPSKGVNFAEEPMRSDSENGEEEEAAEAGAFNAPVINRFTRRASVCAEAYNPDEEEDDAESRIIHPKTDDQRNRLQEACKDILLFKNLDPEQMSQVLDAMFEKLVKEGEHVIDQGDDGDNFYVIDRGTFDIYVKCDGVGRCVGNYDNRGSFGELALMYNTPRAATITATSPGALWGLDRVTFRRIIVKNNAKKRKMYESFIESLPFLKSLEVSERLKVVDVIGTKVYNDGEQIIAQGDLADSFFIVESGEVKITMKRKGKSEVEENGAVEIARCFRGQYFGELALVTNKPRAASAHAIGTVKCLAMDVQAFERLLGPCMEIMKRNIATYEEQLVALFGTNMDIVEPTA",
+          "count": 1
+        }
+      }
+    ],
+    "modelSeeds": [1],
+    "dialect": "alphafold3",
+    "version": 1
+  }
+],
+
+[
+  {
+    "name": "Chain A, cAMP-dependent protein kinase catalytic subunit alpha",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "GNAAAAKKGSEQESVKEFLAKAKEDFLKKWESPAQNTAHLDQFERIKTLGTGSFGRVMLVKHKETGNHYAMKILDKQKVVKLKQIEHTLNEKRILQAVNFPFLVKLEFSFKDNSNLYMVMEYVPGGEMFSHLRRIGRFXEPHARFYAAQIVLTFEYLHSLDLIYRDLKPENLLIDQQGYIQVTDFGFAKRVKGRTWXLCGTPEYLAPEIILSKGYNKAVDWWALGVLIYEMAAGYPPFFADQPIQIYEKIVSGKVRFPSHFSSDLKDLLRNLLQVDLTKRFGNLKNGVNDIKNHKWFATTDWIAIYQRKVEAPFIPKFKGPGDTSNFDDYEEEEIRVXINEKCGKEFSEF",
+          "count": 1
+        }
+      }
+    ],
+    "modelSeeds": [1],
+    "dialect": "alphafold3",
+    "version": 1
+  }
+],
+[
+  {
+    "name": "cAMP-dependent protein kinase type I-beta regulatory subuni",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MASPPACPSEEDESLKGCELYVQLHGIQQVLKDCIVHLCISKPERPMKFLREHFEKLEKEENRQILARQKSNSQSDSHDEEVSPTPPNPVVKARRRRGGVSAEVYTEEDAVSYVRKVIPKDYKTMTALAKAISKNVLFAHLDDNERSDIFDAMFPVTHIAGETVIQQGNEGDNFYVVDQGEVDVYVNGEWVTNISEGGSFGELALIYGTPRAATVKAKTDLKLWGIDRDSYRRILMGSTLRKRKMYEEFLSKVSILESLEKWERLTVADALEPVQFEDGEKIVVQGEPGDDFYIITEGTASVLQRRSPNEEYVEVGRLGPSDYFGEIALLLNRPRAATVVARGPLKCVKLDRPRFERVLGPCSEILKRNIQRYNSFISLTV",
+          "count": 1
+        }
+      }
+    ],
+    "modelSeeds": [1],
+    "dialect": "alphafold3",
+    "version": 1
+  }
+]
+,
+[
+  {
+    "name": "Ropporin",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MPQTDKQVCIPPELPELLKQFTKDAIRTQPPDLIQWAAEYFGAMSRGEIPPVRERSEQIPLSNWAELTPELLKVLHSRVAGRLIIHADELAQMWKVLNLPTDLFNSVMNVGRFTEEIEWLKFLALACSSLGVTIAKTLKIVCEVLSSDHDGGPPRIPFSTFQFLYTYIAEVDGEISSSHVSRMLNYIEQEVIGPDGLIKVNDFTQNPRVRLE",
+          "count": 1
+        }
+      }
+    ],
+    "modelSeeds": [1],
+    "dialect": "alphafold3",
+    "version": 1
+  }
+]
+,
+[
+  {
+    "name": "Ropporin-like",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MPLPDTMFCAQQIHIPPELPDILKQFTKAAIRTQPADVLQWSAGYFSALSRGDPLPVKDRIEMPVATQKTDTGLTQGLLKVLHKQCSHKQYVELADLEKKWKNLCLPVEKLRTILELDPCEDKIEWIKFLALGCSSLGRTLNTAMKNVCEILTSDPEGGPARIPFETFAYVYQYLSGLDPELPAVETENYLTSLRLMSESRKNGMIGLSDFFVGKKII",
+          "count": 1
+        }
+      }
+    ],
+    "modelSeeds": [1],
+    "dialect": "alphafold3",
+    "version": 1
+  }
+]
+
+,
+[
+  {
+    "name": "CABYR",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MISSKPRLVVPYGLKTLLEGVSRAILKTNPTNITQFAAVYFKELIVFREGNSSLDIKDLIKQFHQMKVEKWAEGVTVEKKECIKEPIKPPPVPCKPTHMEKSTDTEEDNVAGPLFSNKTTQFPSVHAEVQSEETSEGARGPSDKPTTPKTDYTPPSSPPPAPVSAEYAYVPADPAQFAAQMLGNVPSTYSEVLMVDVATSTPAVPQDVLSAEFAEEVVLSAPLVCSGETVEVQVVSKTSAQVVVGPVSEAEPPKASSAPLQGEQEPPAHEAPDTQVTSASRISSIYNDVPVNEGVVYVEEIPGYIVIPFTDHDQVACVKEIEQSPPGSPKAVEPKTKISIESLKTVQVEENSQHKSSVHVEAEATVLLSNTALDGQPEVPAEPLDAEGFFKVASENSLHLETEIVIINPDDPGQEESGGNAAPHSSGDPFPPAPGGLTEPEMQPDGEAAPEQV",
+          "count": 1
+        }
+      }
+    ],
+    "modelSeeds": [1],
+    "dialect": "alphafold3",
+    "version": 1
+  }
+]
+
+
+,
+[
+  {
+    "name": "SPA17",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MSIPFSNTHYRIPQGFGNLLEGLTREILREQPDNIPAFAAAYFENLLEKREKTSFDPAEWGAKVEDRFYNNHAFKEQEQVEKCEQELAKSSGREETPVTPFEESTEEEREQEEAAALKIQSLFRGHVAREEVKKMKSDKNENLKEEADN",
+          "count": 1
+        }
+      }
+    ],
+    "modelSeeds": [1],
+    "dialect": "alphafold3",
+    "version": 1
+  }
+],
+[
+  {
+    "name": "MYCBP_Mus",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MAHYKAADSKREQFRRYLEKSGVLDTLTKVLVALYEEPEKPTSALDFLKHHLGAATPENPEIELLRLELAEMKEKYEATVEENKKLKAKLVQYEPPQEEKRAE",
+          "count": 1
+        }
+      }
+    ],
+    "modelSeeds": [1],
+    "dialect": "alphafold3",
+    "version": 1
+  }
+],
+[
+  {
+    "name": "MYCBP_Homo",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MAHYKAADSKREQFRRYLEKSGVLDTLTKVLVALYEEPEKPNSALDFLKHHLGAATPENPEIELLRLELAEMKEKYEAIVEENKKLKAKLAQYEPPQEEKRAD",
+          "count": 1
+        }
+      }
+    ],
+    "modelSeeds": [1],
+    "dialect": "alphafold3",
+    "version": 1
+  }
+]
+,
+[
+  {
+    "name": "DPY30",
+    "sequences": [
+      {
+        "proteinChain": {
+          "sequence": "MADASQATDNTTQVPPLPAVAETTPEAVKAAEKAAVGVHKKINLAAAPIRQYLEATVVPVLMQGMQALCKERPDNPVEFLAYYLLSHNPQPNTKPLPAGAEAGAPAAKAD",
+          "count": 1
+        }
+      }
+    ],
+    "modelSeeds": [1],
+    "dialect": "alphafold3",
+    "version": 1
+  }
+]
+]
